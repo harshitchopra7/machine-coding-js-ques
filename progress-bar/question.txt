@@ -1,0 +1,5 @@
+Q1. Create a progress bar that should animate and complete in 5 seconds.
+
+Q2. Create a button to add new progress bars.
+
+Q3. Next progress bar should only start animating once the previous progress bar is completed.
