@@ -1,0 +1,5 @@
+Q1. Create an accordion
+
+Q2. Create a button to add more accordions
+
+Q3. On click of accordion, the description should show/hide
